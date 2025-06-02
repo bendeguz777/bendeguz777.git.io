@@ -1,1 +1,2 @@
 #   Kohári Bendegúz
+#   Hriczu Zsombor
